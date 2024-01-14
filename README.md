@@ -1,7 +1,10 @@
 # UrbanAquaculture
-: Aquaculture with Rainwater pumping station
 
-![project_proposal_drawing](./project_proposal_drawing.png)
+<!-- ![project_proposal_drawing](./project_proposal_drawing.png) -->
+<p align="center">
+  <img src="./project_proposal_drawing.png" alt="project_proposal_drawing" width=60%>
+</p>
+
 
 ## Aquaculture with Rainwater pumping station
 
@@ -11,5 +14,8 @@ This building is expected to not only achieve internal circulation, but also con
 
 We wanted to incorporate natural patterns into the building, rather than the existing fish farms that were separated by floor in people's spaces to maximize efficiency. We also wanted to make this space blend well into the surrounding environment without being alien to Seoul's environment and systems. Therefore, we included residential facilities along with programs such as markets and research facilities.Through this, we aim to utilize existing systems to create a building that is integrated into Seoul's environment and systems.
 
-
-Project from Interior Architecture Studio 2 (Fall 2023)
+<br>
+<p align="right" style="..."> 
+  Project from Interior Architecture Studio 2 (Fall 2023) <br>
+  Yoomin Lee
+</p>
